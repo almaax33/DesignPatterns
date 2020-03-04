@@ -7,12 +7,14 @@
 A design pattern is a reusable solution that can be applied to common design problems.
 
 We can classify the design patterns by two criterias, Purpose and Scope. 
- 1. Purpose: What does the pattern do... They can be 
+ ### Purpose**
+What does the pattern do... They can be 
   - Creational: Deals with the process of the object creation
   - Structural: Concerns about the composition of the object.
   - Behavioral: Characterize how classes or objects interact and distribute responsibility.
 
- 2. Scope: Does it applies to Classes or Objects??
+ ### **Scope**: 
+ Does it applies to Classes or Objects??
   - Class: Classes and subclasses, works with inheritance. 
   - Object: Works with objects relationships. More Dynamic!
 
